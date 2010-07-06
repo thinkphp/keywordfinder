@@ -1,0 +1,8 @@
+html,body {background: #ccc;font-family: arial,verdana} #doc {background: #ECECEC;border: 1em solid #ECECEC;border-radius:10px;-moz-border-radius:10px;-webkit-border-radius: 10px} #hd h1 {font-size: 30px;color: #4C549A;font-weight: bold;margin-bottom: 10px} #bd {padding: 10px;border-radius:10px;-moz-border-radius:10px;-webkit-border-radius: 10px} form {background: #85BB23;padding: 20px;border-radius:10px;-moz-border-radius:10px;-webkit-border-radius: 10px} .yui-g {margin-top: 20px;padding: 4px} #related {padding: 3px;font-size: 14px;color: #4C549A} ul#topsource li{padding: 3px;list-style-type: decimal} #topsource a{color: #000;font-size: 15px} #ft a{color: #393;} #ft{color: #111;font-size: 11px} label{color: #fff;font-weight: bold;font-size: 20px} span{font-size: 27px;font-weight: bold;margin-bottom: 10px} select{font-size: 20px;font-weight: bold;margin-left: 154px;margin-top: 10px} .key {color: #96A1FB} #s,#run {font-size: 20px} 
+h2{font-family:calibri,sans-serif;color:#060;font-size:140%;padding:1em 0 .5em 0;font-weight:bold;color: #111}
+h3{font-family:calibri,sans-serif;color:#000;font-size:110%;padding:0;margin:.5em 0;font-weight:bold;}
+h1{font-family:calibri,sans-serif;color:#060;font-size:200%;padding:1em 0 .5em 0;font-weight:bold;}
+#keywords.load {margin:1em 0 0 0;padding:1em;font-size:120%;background:#5daf05;-moz-border-radius:10px;border-radius:10px;-wekbit-border-radius:10px;}
+#keywords p.termslist{margin:1em 0;padding:1em;font-size:110%;background:#fff;-moz-border-radius:10px;border-radius:10px;-wekbit-border-radius:10px;}
+#keywords p{margin:1em 0;}
+#keywords span{color: #fff}
